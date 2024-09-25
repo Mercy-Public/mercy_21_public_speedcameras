@@ -51,5 +51,8 @@ local satellitePoints = { -- in the disablecam.lua
 Ped Location: The ped to start the mission is located at:
 local pedCoords = tp 196.95, -1493.81, 28.14
 
+Dependency 
+https://github.com/overextended/ox_lib
+
 In-game messages can be edited at the following lines in the disablecam.lua
 73, 134, 181, 196, 205, 214
